@@ -1,0 +1,23 @@
+.location__card {
+    background-color: #FFB500;
+    box-shadow: 10px 10px 5px 0px rgba(153, 153, 153, 0.75);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.location__card__address {
+    font-size: 14px;
+}
+
+.location__card__options {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.location__card__options span {
+    margin-right: 14px;
+}

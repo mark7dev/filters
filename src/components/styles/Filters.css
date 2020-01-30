@@ -1,0 +1,12 @@
+select {
+    color: white;
+    background-color: #800080;
+    padding: 8px;
+    border-radius: 10px;
+    outline: none;
+    appearance: none;
+}
+
+input {
+    padding: 6px;
+}

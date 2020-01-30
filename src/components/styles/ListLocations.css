@@ -1,0 +1,13 @@
+.message {
+    display: flex;
+    color: red;
+    font-size: 12px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.list__container {
+    width: 70%;
+    margin: auto;
+}
